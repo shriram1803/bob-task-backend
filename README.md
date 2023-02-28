@@ -32,4 +32,5 @@ Branch API to return possible matches based on the branch name ordered by IFSC c
 
 Request URL  - /api/branch?q=LONI&limit=1&offset=1 
 ![Screenshot 2023-02-28 152032](https://user-images.githubusercontent.com/83195038/221816645-dcbff78d-b36f-4825-b99c-419dccd82dab.png)
+Request URL - /api/branch?q=LONI&limit=1&offset=0
 ![Screenshot 2023-02-28 152053](https://user-images.githubusercontent.com/83195038/221816609-e4de87fd-0ba9-4642-849b-2a1b19a5ca30.png)
